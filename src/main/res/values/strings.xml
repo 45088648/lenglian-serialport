@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">实时温度监测</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+
+    <string name="tab_module">串口测试</string>
+    <string name="master_to_module_text">发到</string>
+    <string name="module_to_master_text">接收</string>
+    <string name="module_read_time_text">时间</string>
+    <string name="send_to_module_succ_text">发送成功</string>
+    <string name="send_to_module_fail_text">发送失败</string>
+</resources>
